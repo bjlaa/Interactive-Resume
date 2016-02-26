@@ -4,7 +4,7 @@ This is an interactive resume application developed Using jQuery, that reads all
 
 In order to access it in your browser:
 
-* click in the following link redirecting to my [Github Pages](http://http://bjlaa.github.io/Interactive-Resume) page for this project.
+* click in the following link redirecting to my [Github Pages](http://bjlaa.github.io/Interactive-Resume) page for this project.
 
 or
 
