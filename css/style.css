@@ -8,6 +8,10 @@
   font-family: 'Helvetica Neu', sans-serif;
 }
 
+/*
+  Main Parts
+*/
+
 #main {
   width: 60%;
   margin-left: 20%;
@@ -16,6 +20,25 @@
 .clearfix {
   overflow: auto;
 }
+
+#workExperience {
+
+}
+
+#projects {
+
+}
+
+#education {
+
+}
+#onlineyes {
+
+}
+
+/*
+  Specific
+*/
 
 .education-entry, .work-entry, .project-entry {
   padding-left: 5%;
